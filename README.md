@@ -4,17 +4,41 @@
 ![hackerman](https://i.kym-cdn.com/editorials/icons/mobile/000/001/508/hackerman-icon.jpg)
 
 # Index
-1. [CTF Resources](#ctf-and-skill-development)
-2. [News](#news-and-info)
-3. [Pentesting Resources](#pentesting-resources)
-4. [Reversing Resources](#reversing)
-5. [Malware Analysis](#malware-analysis)
-6. [Anonymisers](#anonymisers)
-7. [Honeypots](#honeypots)
-8. [Network Defence](#network-perimeter-defense)
-9. [Operating Systems](#security-and-pentesting-operating-systems)
-10. [Other Collections](#other-cybersecurity-collections)
-11. [References](#references)
+1. [OPPSEC](#oppsec)
+2. [OSINT](#osint)
+3. [CTF Resources](#ctf-and-skill-development)
+4. [News](#news-and-info)
+5. [Pentesting Resources](#pentesting-resources)
+6. [Reversing Resources](#reversing)
+7. [Malware Analysis](#malware-analysis)
+8. [Anonymisers](#anonymisers)
+9. [Honeypots](#honeypots)
+10. [Network Defence](#network-perimeter-defense)
+11. [Operating Systems](#security-and-pentesting-operating-systems)
+12. [Other Collections](#other-cybersecurity-collections)
+13. [References](#references)
+
+# OPPSEC
+_The following references were composed with OPPSEC and Sock Puppet generation in mind._
+[The Ultimate Sock Puppets Tutorial](https://www.ehacking.net/2021/04/the-ultimate-sock-puppets-tutorial-for-osint-operators.html) - Comprehensive guide to Sock Puppet Operations.
+[Crypton.sh](https://crypton.sh/login) - Secure SMS pin card.
+[Privacy Tools](https://www.privacytools.io/) - Decent resource for maintaining online privacy.
+[Privacy Tools Reddit wiki](https://old.reddit.com/r/privacytoolsIO/wiki/index) - Decent collection of information and tools.
+[Private Bin](https://privatebin.info/) - Secure, open source pastebin.
+[CryptPad](https://cryptpad.fr/) - Secure document collaboaration environment.
+[Just Delete Me](https://backgroundchecks.org/justdeleteme/fake-identity-generator/) - Identity Generator.
+[This Person Does Not Exist](https://thispersondoesnotexist.com/) - Generate portrait photos with AI.
+[Fake Name Generator](https://www.fakenamegenerator.com/) - Generate fake names.
+[Persona Generator](https://personagenerator.com/) - Generate personalities.
+[Photopeia](https://www.photopea.com/) - Online photo generator.
+[Username Generator](https://nordpass.com/username-generator/) - Generate random usernames.
+[YOPmail](https://yopmail.com/en/) - Disposable mail service.
+[Guerilla Mail](https://www.guerrillamail.com/) - Another decent disposable mail service.
+
+# OSINT
+[TraceLabs](https://www.tracelabs.org/) - Worldwide, Open Source OSINT initiative.
+[OSINT Framework](https://osintframework.com/) - Essential OSINT tools and resources.
+[Toolkit](https://start.me/p/W1AXYo/toolkit) - Osint Toolkit
 
 # CTF and Skill Development
 
@@ -42,6 +66,8 @@
 - [Krebs on Security](https://krebsonsecurity.com/) - In depth analysis and information.
 - [OWASP](https://owasp.slack.com/) - Essential community for Cybsec professionals.
 - [Decentralize](https://decentralize.today/) - Updates on privacy, decentralization and related issues.
+- [CSO Online](https://www.csoonline.com/) - Security News resource.
+- [Restore Privacy](https://restoreprivacy.com/) - Privacy-centric news and blog.
 
 # Pentesting Resources
 
@@ -52,7 +78,7 @@
 - [Exploit Databse](https://www.exploit-db.com/) - Maintained by Offensive Security. 
 - [NMAP: Hackertarget Reference Guide](https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/) - Decent Nmap cheatsheet.
 - [The Pentesters Framework](https://github.com/trustedsec/ptf) - Distro organized around the Penetration Testing Execution Standard (PTES) [^2]
-
+- [XSS Scripting Cheatsheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 
 ## Web Tools
 - [BurpSuite](https://portswigger.net/burp) - A graphical tool to testing website security.
@@ -62,7 +88,8 @@
 
 ## Pentesting Tools
 - [Metasploit](https://github.com/rapid7/metasploit-framework) - Easy to use, all-in-one exploit kit.
-- [Low Orbital Ion Cannon](https://github.com/NewEraCracker/LOIC) - Open Source Network stress tool (DDoS) 
+- [Low Orbital Ion Cannon](https://github.com/NewEraCracker/LOIC) - Open Source Network stress tool (DDoS).
+- [Arsenal of AWS Pentesting Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - Very decent list of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 
 ## Scripts
 - [CTF Tools](https://github.com/zardus/ctf-tools) - Setup scripts to install various security research tools.
