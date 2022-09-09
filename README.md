@@ -136,5 +136,5 @@ _Treats too good to resist_
 - [Pentoo](http://www.pentoo.ch/) - Based on Gentoo.
 
 # References
-[^1]: [Awesome Cybersecurity Blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
+[^1]: Awesome Cybersecurity Blueteam https://github.com/fabacab/awesome-cybersecurity-blueteam
 
