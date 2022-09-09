@@ -44,17 +44,6 @@ Collection of Pentesting Tools and Resources.
 - [Any.Run](https://any.run/) - Online Malware Analysis.
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) - Comprehensive analysis repository.
 
-## Anonymisers
-_Conceal your identity_
-- [Privoxy](http://www.privoxy.org/) - An open source proxy server with some
-  privacy features.
-- [Tor](https://www.torproject.org/) - The Onion Router, for browsing the web
-  without leaving traces of the client IP.
-  
-## Honeypots
-_Treats too good to resist_
-- [Honeyd](http://www.honeyd.org/) - Virtual honeynet.
-
 ## Sandboxes
 _Play with danger_
 - [Cuckoo](https://cuckoosandbox.org/) - Malware analysis sandbox
@@ -63,18 +52,25 @@ _Play with danger_
 - [ThreatPursuit](https://github.com/mandiant/ThreatPursuit-VM) - Mandiant Threat Intelligence VM
 - [Firejail](https://firejail.wordpress.com/) - Sandbox your apps on Linux
 
-# Blue
-_A collection of tools useful for defence_
+Reference: [Awesome Cybersecurity Blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
 
-## Honeypots 
+# Anonymisers
+_Conceal your identity_
+- [Privoxy](http://www.privoxy.org/) - An open source proxy server with some
+  privacy features.
+- [Tor](https://www.torproject.org/) - The Onion Router, for browsing the web
+  without leaving traces of the client IP.
+  
+# Honeypots
+_Treats too good to resist_
+- [Honeyd](http://www.honeyd.org/) - Virtual honeynet.
 - [CanaryTokens](https://github.com/thinkst/canarytokens) - Self-hostable honeytoken generator and reporting dashboard; demo version available at [CanaryTokens.org](https://canarytokens.org/).
 - [Kushtaka](https://kushtaka.org) - Sustainable all-in-one honeypot and honeytoken orchestrator for under-resourced blue teams.
 - [Manuka](https://github.com/spaceraccoon/manuka) - Open-sources intelligence (OSINT) honeypot that monitors reconnaissance attempts by threat actors and generates actionable intelligence for Blue Teamers.
 
 Reference: [Awesome Cybersecurity Blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
 
-
-## Network perimeter defenses
+# Network perimeter defenses
 
 - [Gatekeeper](https://github.com/AltraMayor/gatekeeper) - First open source Distributed Denial of Service (DDoS) protection system.
 - [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
