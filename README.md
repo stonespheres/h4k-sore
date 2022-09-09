@@ -4,15 +4,17 @@
 ![hackerman](https://i.kym-cdn.com/editorials/icons/mobile/000/001/508/hackerman-icon.jpg)
 
 # Index
-- [CTF Resources](#ctf-and-skill-development)
-- [News](#news-and-info)
-- [Pentesting Resources](#pentesting-resources)
-- [Reversing Resources](#reversing)
-- [Malware Analysis](#malware-analysis)
-- [Anonymisers](#anonymisers)
-- [Honeypots](#honeypots)
-- [Network Defence](#network-perimeter-defense)
-- [Operating Systems](security-and-pentesting-operating-systems)
+1. [CTF Resources](#ctf-and-skill-development)
+2. [News](#news-and-info)
+3. [Pentesting Resources](#pentesting-resources)
+4. [Reversing Resources](#reversing)
+5. [Malware Analysis](#malware-analysis)
+6. [Anonymisers](#anonymisers)
+7. [Honeypots](#honeypots)
+8. [Network Defence](#network-perimeter-defense)
+9. [Operating Systems](#security-and-pentesting-operating-systems)
+10. [Other Collections](#other-cybersecurity-collections)
+11. [References](#references)
 
 # CTF and Skill Development
 
@@ -49,6 +51,7 @@
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Pentesters best friend.
 - [Exploit Databse](https://www.exploit-db.com/) - Maintained by Offensive Security. 
 - [NMAP: Hackertarget Reference Guide](https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/) - Decent Nmap cheatsheet.
+- [The Pentesters Framework](https://github.com/trustedsec/ptf) - Distro organized around the Penetration Testing Execution Standard (PTES) [^2]
 
 
 ## Web Tools
@@ -135,6 +138,9 @@ _Treats too good to resist_
 - [Parrot Security OS](https://www.parrotsec.org/) - Standard security and pentesting OS, used by HackTheBox.
 - [Pentoo](http://www.pentoo.ch/) - Based on Gentoo.
 
+# Other Cybersecurity Collections
+
 # References
 [^1]: Awesome Cybersecurity Blueteam https://github.com/fabacab/awesome-cybersecurity-blueteam
+[^2]: Awesome Pentest https://github.com/enaqx/awesome-pentest
 
