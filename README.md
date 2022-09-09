@@ -4,41 +4,43 @@
 ![hackerman](https://i.kym-cdn.com/editorials/icons/mobile/000/001/508/hackerman-icon.jpg)
 
 # Index
-1. [OPPSEC](#oppsec)
-2. [OSINT](#osint)
-3. [CTF Resources](#ctf-and-skill-development)
-4. [News](#news-and-info)
-5. [Pentesting Resources](#pentesting-resources)
-6. [Reversing Resources](#reversing)
-7. [Malware Analysis](#malware-analysis)
-8. [Anonymisers](#anonymisers)
-9. [Honeypots](#honeypots)
-10. [Network Defence](#network-perimeter-defense)
-11. [Operating Systems](#security-and-pentesting-operating-systems)
-12. [Other Collections](#other-cybersecurity-collections)
-13. [References](#references)
+| Categories  | Notes |
+| ------------- | ------------- |
+| [OPPSEC](#oppsec) | (Operational Security)|
+| [OSINT](#osint) | (Open Source Intelligence)|
+| [CTF Resources](#ctf-and-skill-development) | Tutorials, playgrounds and more. |
+| [News](#news-and-info) | News curation |
+| [Pentesting Resources](#pentesting-resources) | |
+| [Reversing Resources](#reversing) | |
+| [Malware Analysis](#malware-analysis) ||
+| [Anonymisers](#anonymisers) | Hide your identity |
+| [Honeypots](#honeypots) | Traps, etc. |
+| [Network Defence](#network-perimeter-defense) | |
+| [Operating Systems](#security-and-pentesting-operating-systems) | Windows, Linux. |
+| [Other Collections](#other-cybersecurity-collections) | Links to other lists and curations. |
+| [References](#references) | |
 
 # OPPSEC
 _The following references were composed with OPPSEC and Sock Puppet generation in mind._
-[The Ultimate Sock Puppets Tutorial](https://www.ehacking.net/2021/04/the-ultimate-sock-puppets-tutorial-for-osint-operators.html) - Comprehensive guide to Sock Puppet Operations.
-[Crypton.sh](https://crypton.sh/login) - Secure SMS pin card.
-[Privacy Tools](https://www.privacytools.io/) - Decent resource for maintaining online privacy.
-[Privacy Tools Reddit wiki](https://old.reddit.com/r/privacytoolsIO/wiki/index) - Decent collection of information and tools.
-[Private Bin](https://privatebin.info/) - Secure, open source pastebin.
-[CryptPad](https://cryptpad.fr/) - Secure document collaboaration environment.
-[Just Delete Me](https://backgroundchecks.org/justdeleteme/fake-identity-generator/) - Identity Generator.
-[This Person Does Not Exist](https://thispersondoesnotexist.com/) - Generate portrait photos with AI.
-[Fake Name Generator](https://www.fakenamegenerator.com/) - Generate fake names.
-[Persona Generator](https://personagenerator.com/) - Generate personalities.
-[Photopeia](https://www.photopea.com/) - Online photo generator.
-[Username Generator](https://nordpass.com/username-generator/) - Generate random usernames.
-[YOPmail](https://yopmail.com/en/) - Disposable mail service.
-[Guerilla Mail](https://www.guerrillamail.com/) - Another decent disposable mail service.
+- [The Ultimate Sock Puppets Tutorial](https://www.ehacking.net/2021/04/the-ultimate-sock-puppets-tutorial-for-osint-operators.html) - Comprehensive guide to Sock Puppet Operations.
+- [Crypton.sh](https://crypton.sh/login) - Secure SMS pin card.
+- [Privacy Tools](https://www.privacytools.io/) - Decent resource for maintaining online privacy.
+- [Privacy Tools Reddit wiki](https://old.reddit.com/r/privacytoolsIO/wiki/index) - Decent collection of information and tools.
+- [Private Bin](https://privatebin.info/) - Secure, open source pastebin.
+- [CryptPad](https://cryptpad.fr/) - Secure document collaboaration environment.
+- [Just Delete Me](https://backgroundchecks.org/justdeleteme/fake-identity-generator/) - Identity Generator.
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/) - Generate portrait photos with AI.
+- [Fake Name Generator](https://www.fakenamegenerator.com/) - Generate fake names.
+- [Persona Generator](https://personagenerator.com/) - Generate personalities.
+- [Photopeia](https://www.photopea.com/) - Online photo generator.
+- [Username Generator](https://nordpass.com/username-generator/) - Generate random usernames.
+- [YOPmail](https://yopmail.com/en/) - Disposable mail service.
+- [Guerilla Mail](https://www.guerrillamail.com/) - Another decent disposable mail service.
 
 # OSINT
-[TraceLabs](https://www.tracelabs.org/) - Worldwide, Open Source OSINT initiative.
-[OSINT Framework](https://osintframework.com/) - Essential OSINT tools and resources.
-[Toolkit](https://start.me/p/W1AXYo/toolkit) - Osint Toolkit
+- [TraceLabs](https://www.tracelabs.org/) - Worldwide, Open Source OSINT initiative.
+- [OSINT Framework](https://osintframework.com/) - Essential OSINT tools and resources.
+- [Toolkit](https://start.me/p/W1AXYo/toolkit) - Osint Toolkit
 
 # CTF and Skill Development
 
