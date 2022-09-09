@@ -74,6 +74,7 @@ _The following references were composed with OPPSEC and Sock Puppet generation i
 # Pentesting Resources
 
 ## Exploit Information and Resources
+- [Pentesting Wiki](https://github.com/nixawk/pentest-wiki) - Comprehensive wiki of pentest resources.
 - [Privilege Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation) - Excellent Github repository.
 - [Active Directory Exploitation](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - Great AD cheatsheet.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Pentesters best friend.
